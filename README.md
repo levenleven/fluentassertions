@@ -5,3 +5,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/h60mq3e5uf5tuout/branch/develop?svg=true)](https://ci.appveyor.com/project/dennisdoomen/fluentassertions/branch/develop)
 
 [/test](/test.md)
+
+[./test](/test.md)
